@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other files you might not want to push
+*.env
