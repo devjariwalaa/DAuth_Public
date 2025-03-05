@@ -25,12 +25,12 @@ I learned technologies and plan to improve my knowledge in **FastAPI** and build
 - **Rate Limiting** (Prevent brute force attacks)
 - **Token Security Enhancements** (Revocation, expiry handling)
 
-### 🚧 Phase 3 - Microservices Expansion -- COMING SOON
+### Phase 3 - Microservices Expansion -- COMING SOON
 - **Split Auth Service & User Service**
 - **Docker & Containerization**
 - **API Gateway for service routing**
 
-### 🌍 Phase 4 - Scaling & Deployment -- COMING SOON
+### Phase 4 - Scaling & Deployment -- COMING SOON
 - **Deploy using Kubernetes & Cloud Hosting**
 - **Monitoring & Logging**
 - **Optimize for large-scale usage (100k+ users)**
