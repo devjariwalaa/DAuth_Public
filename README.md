@@ -19,7 +19,7 @@ I learned technologies and plan to improve my knowledge in **FastAPI** and build
   - Ensured password updates reflect in login
   - Removed raw passwords from API responses
 
-### Phase 2 - OAuth2 & Security Enhancements -- IN PRODUCTION
+### Phase 2 - OAuth2 & Security Enhancements (Completed)
 - Implement **OAuth2 login** (Google, GitHub, etc.)
 - **Refresh Tokens** (Handle JWT expiration)
 - **Rate Limiting** (Prevent brute force attacks)
