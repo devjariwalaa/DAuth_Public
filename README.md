@@ -1,4 +1,4 @@
-# DAuth - Scalable Authentication System 🚀
+# DAuth - Scalable Authentication System
 
 DAuth is a robust authentication system built using **FastAPI** and **PostgreSQL**.  
 It provides **JWT-based authentication**, **OAuth2 login**, and is designed to be **scalable** with a microservices architecture.
